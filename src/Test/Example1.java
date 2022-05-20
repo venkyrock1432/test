@@ -6,6 +6,7 @@ public class Example1 {
 		// TODO Auto-generated method stub
 		System.out.println("Good Morning");
 		System.out.println("First Edited");
+		System.out.println("Changed in feature branch");
 
 	}
 
